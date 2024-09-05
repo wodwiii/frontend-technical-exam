@@ -1,0 +1,6 @@
+How to run:
+
+1. Un-zip the file and open with VSCode
+2. open terminal and "npm install" (if there are no dependencies)
+3. run using "npm run dev"
+4. Access it on http://localhost:3000

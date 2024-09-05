@@ -1,0 +1,26 @@
+[
+    {
+        "src": "/image-2.jpg",
+        "alt": "Jujutsu Kaisen",
+        "title": "Attack on Titan",
+        "rating": "5.0",
+        "category": "Adventure fiction, Dark fantasy, Martial Arts",
+        "description": "Attack on Titan is a dark fantasy anime and manga series set in a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans. The story follows Eren Yeager, who vows to eradicate the Titans after witnessing the destruction of his hometown and the death of his mother. Alongside his friends Mikasa and Armin, Eren joins the military to uncover the truth behind the Titans and humanity's grim existence. The series is known for its intense action, intricate plot twists, and deep themes of freedom, sacrifice, and survival.."
+    },
+    {
+        "src": "/image-3.png",
+        "alt": "Slide 3",
+        "title": "Jujutsu Kaisen",
+        "rating": "5.0",
+        "category": "Category: Adventure fiction,  Martial Arts",
+        "description": "Jujutsu Kaisen follows Yuji Itadori, a high school student who becomes entangled with jujutsu sorcerers after consuming a cursed object—Ryomen Sukuna's finger. As he trains to master his powers and control the malevolent Sukuna within him, Yuji battles various curses alongside his fellow sorcerers. The series is celebrated for its thrilling action, strong character development, and a blend of horror and humor."
+    },
+    {
+        "src": "/image-4.jpg",
+        "alt": "Slide 4",
+        "title": "One Piece",
+        "rating": "5.0",
+        "category": "Adventure fiction, Comedy, Family",
+        "description": "One Piece is an epic adventure anime and manga series that follows Monkey D. Luffy, a young pirate with the ability to stretch his body like rubber after eating a Devil Fruit. Luffy sets out to find the legendary treasure known as the One Piece and become the Pirate King. Along his journey, he gathers a diverse crew known as the Straw Hat Pirates, each with their unique abilities and dreams. The series is renowned for its rich world-building, memorable characters, and themes of friendship, adventure, and the pursuit of dreams."
+    }
+]

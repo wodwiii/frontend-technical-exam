@@ -1,0 +1,80 @@
+[
+    {
+        "src": "/image-2.jpg",
+        "alt": "Attack on Titan",
+        "title": "Attack on Titan",
+        "rating": "5.0",
+        "category": "Adventure fiction, Dark fantasy, Martial Arts",
+        "description": "Attack on Titan is a dark fantasy anime and manga series set in a world where humanity is on the brink of extinction due to giant humanoid creatures known as Titans. The story follows Eren Yeager, who vows to eradicate the Titans after witnessing the destruction of his hometown and the death of his mother.",
+        "season": "1",
+        "episodes": [
+            {
+                "episodeTitle": "Episode 1: To You, 2000 Years in the Future",
+                "src": "/image-1.png",
+                "description": "Eren Yeager's life is shattered when Titans break through the walls protecting his city, leading to the destruction of his home and the death of his mother. This event sparks Eren’s resolve to eliminate all Titans."
+            },
+            {
+                "episodeTitle": "Episode 2: That Day",
+                "src": "/image-1.png",
+                "description": "Eren, Mikasa, and Armin make a pledge to fight back against the Titans after witnessing the horror of the attack. Their journey to join the Survey Corps begins."
+            },
+            {
+                "episodeTitle": "Episode 3: A Dim Light Amid Despair",
+                "src": "/image-1.png",
+                "description": "As they begin training, Eren, Mikasa, and Armin struggle with their fears and doubts, but they must steel themselves for the upcoming battle against the Titans."
+            }
+        ]
+    },
+    {
+        "src": "/image-3.png",
+        "alt": "Slide 3",
+        "title": "Jujutsu Kaisen",
+        "rating": "5.0",
+        "category": "Adventure fiction, Martial Arts",
+        "description": "Jujutsu Kaisen follows Yuji Itadori, a high school student who becomes entangled with jujutsu sorcerers after consuming a cursed object—Ryomen Sukuna's finger.",
+        "season": "1",
+        "episodes": [
+            {
+                "episodeTitle": "Episode 1: Ryomen Sukuna",
+                "src": "/image-1.png",
+                "description": "Yuji Itadori consumes a cursed object, Ryomen Sukuna's finger, and becomes host to the powerful curse. Now, Yuji must learn to control this power while battling curses."
+            },
+            {
+                "episodeTitle": "Episode 2: For Myself",
+                "src": "/image-1.png",
+                "description": "Yuji begins his training at the Tokyo Metropolitan Jujutsu Technical High School, under the mentorship of Gojo Satoru. He is introduced to the world of curses and sorcery."
+            },
+            {
+                "episodeTitle": "Episode 3: Girl of Steel",
+                "src": "/image-1.png",
+                "description": "Yuji teams up with his classmates, Megumi and Nobara, to take on their first mission against cursed spirits, but the challenges ahead are far greater than expected."
+            }
+        ]
+    },
+    {
+        "src": "/image-4.jpg",
+        "alt": "Slide 4",
+        "title": "One Piece",
+        "rating": "5.0",
+        "category": "Adventure fiction, Comedy, Family",
+        "description": "One Piece follows Monkey D. Luffy, a young pirate with the ability to stretch his body like rubber after eating a Devil Fruit. He sets out to find the legendary treasure known as the One Piece and become the Pirate King.",
+        "season": "1",
+        "episodes": [
+            {
+                "episodeTitle": "Episode 1: I’m Luffy! The Man Who’s Gonna Be King of the Pirates!",
+                "src": "/image-1.png",
+                "description": "Luffy begins his journey to become the Pirate King. He sets sail on a small boat, eager to find a crew and start his grand adventure in search of the One Piece."
+            },
+            {
+                "episodeTitle": "Episode 2: Enter Zoro: Pirate Hunter",
+                "src": "/image-1.png",
+                "description": "Luffy meets Zoro, a pirate hunter, and recruits him to join his crew. Together, they face off against corrupt marines and begin forming the legendary Straw Hat Pirates."
+            },
+            {
+                "episodeTitle": "Episode 3: Morgan vs. Luffy! Who’s the Mysterious Pretty Girl?",
+                "src": "/image-1.png",
+                "description": "As Luffy and Zoro fight against Captain Morgan, they encounter a mysterious girl named Nami, who has her own agenda. The adventures of the Straw Hat crew continue to unfold."
+            }
+        ]
+    }
+]
