@@ -122,9 +122,9 @@ const Carousel: React.FC<CarouselProps> = ({ slides = [] }) => {
       </div>
       
       <div className="flex-1 text-white">
-        <div className="flex justify-between">
+        <div className="flex justify-between pl-4 pr-16">
         <h2 className="text-xl font-bold">Episodes</h2>
-        <div>Season 1</div>
+        <div className="">Season 1</div>
         </div>
       
         <ul className="mt-4 space-y-2">
